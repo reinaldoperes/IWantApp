@@ -1,9 +1,6 @@
 # IWantApp
 Deepening project on .NET Core and its best practices in web projects
 
-This template is a simple startup project to start with ABP
-using ASP.NET Core and EntityFramework Core.
-
 ## Prerequirements
 
 * Visual Studio 2022 (Recommended)
